@@ -1,4 +1,3 @@
-
 # SVG Logo Maker
 
 ## Description
@@ -18,12 +17,14 @@ The SVG Logo Maker is a Node.js command-line application that allows users to cr
 ## How to Use
 
 1. **Clone the Repository:**
+
    - Clone the project to your local machine using:
      ```bash
      git clone https://github.com/BrockAltug/svg-logo-maker.git
      ```
 
 2. **Install Dependencies:**
+
    - Navigate to the project directory and run:
      ```bash
      npm install
@@ -35,6 +36,7 @@ The SVG Logo Maker is a Node.js command-line application that allows users to cr
      ```
 
 3. **Run the Application:**
+
    - Start the logo generator by running:
      ```bash
      node index.js
@@ -62,6 +64,9 @@ The application includes unit tests to ensure functionality. Run the following c
 ```bash
 npm run test
 ```
+
+<img src="./assets/images/demo1.gif" alt="Demo Vid">
+<img src="./assets/images/demo2.gif" alt="Demo Test">
 
 ## Technologies Used
 
